@@ -1,11 +1,13 @@
 
-import './App.css'
 
+// import Category from './components/category/Category'
+import Category from "./components/category/Category"
 function App() {
 
   return (
     <>
-      Hello this is the page
+    
+      <Category></Category>
     </>
   )
 }
